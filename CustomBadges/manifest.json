@@ -1,0 +1,11 @@
+{
+  "name": "CustomBadges",
+  "description": "Add custom badges to Discord profiles",
+  "authors": [
+    {
+      "name": "Louviere",
+      "id": "1272058113171783691"
+    }
+  ],
+  "main": "index.js"
+}
